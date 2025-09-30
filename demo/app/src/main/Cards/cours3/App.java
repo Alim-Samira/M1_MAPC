@@ -1,4 +1,4 @@
-package org.example.cards.cours3;
+// package org.example.cards.cours3;
 
 public class App {
     public static void main(String[] args) {
@@ -8,4 +8,3 @@ public class App {
         System.out.println(deck);
     }
 }
-
