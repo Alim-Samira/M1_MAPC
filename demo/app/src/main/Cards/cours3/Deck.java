@@ -1,4 +1,4 @@
-package org.example.cards.cours3;
+// package org.example.cards.cours3;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -20,7 +20,6 @@ public class Deck {
         }
         Collections.shuffle(cards);
     }
-
     /**
      * Creates a deck of cards from another one.
      * Performs a copy.
